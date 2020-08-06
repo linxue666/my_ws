@@ -1,0 +1,2 @@
+my_description:my_gazebo:turtle_actionlib
+-DCATKIN_DEVEL_PREFIX=/home/winkle/sim/my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/winkle/sim/my_ws/install -G Unix Makefiles

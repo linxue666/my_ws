@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/winkle/sim/my_ws/src/my_control/src/my_control.cpp
+ros/ros.h
+-
+move_base_msgs/MoveBaseAction.h
+-
+actionlib/client/simple_action_client.h
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/winkle/sim/my_ws/devel
+
+Name: turtle_actionlib
+Description: Description of turtle_actionlib
+Version: 0.1.11
+Cflags: -I/home/winkle/sim/my_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
